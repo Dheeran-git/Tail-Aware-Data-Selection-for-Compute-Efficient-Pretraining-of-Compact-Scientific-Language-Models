@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "fractions": {
+    "train": 0.9,
+    "val": 0.05,
+    "test": 0.05
+  },
+  "splits": {
+    "train": {
+      "rows": 440584,
+      "approx_words": 80285726,
+      "primary_categories": 152
+    },
+    "val": {
+      "rows": 24401,
+      "approx_words": 4427682,
+      "primary_categories": 126
+    },
+    "test": {
+      "rows": 24691,
+      "approx_words": 4499275,
+      "primary_categories": 129
+    }
+  },
+  "test_categories_with_100plus_docs": 26,
+  "test_categories_with_under_30_docs": 85
+}

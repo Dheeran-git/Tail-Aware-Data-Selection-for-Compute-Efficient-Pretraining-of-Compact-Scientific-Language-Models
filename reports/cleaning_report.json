@@ -1,0 +1,14 @@
+{
+  "input_rows": 489995,
+  "empty_abstract": 0,
+  "too_short": 146,
+  "too_long": 0,
+  "withdrawn": 7,
+  "exact_duplicate": 166,
+  "output_rows": 489676,
+  "settings": {
+    "MIN_WORDS": 20,
+    "MAX_WORDS": 800,
+    "INCLUDE_TITLE": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "rows": 489995,
+  "n_primary_categories": 152,
+  "n_all_categories": 162,
+  "word_count_percentiles": {
+    "0.001": 31.0,
+    "0.01": 65.0,
+    "0.05": 95.0,
+    "0.5": 171.0,
+    "0.95": 253.0,
+    "0.99": 279.0,
+    "0.999": 303.0
+  },
+  "exact_duplicates": 168,
+  "withdrawn_mentions": 69
+}
