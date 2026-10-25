@@ -1,0 +1,13 @@
+{
+  "dataset": "librarian-bots/arxiv-metadata-snapshot",
+  "revision": "d83cc98f9ceba7b7d21cde0245233d48b63a7dbe",
+  "retrieved_at": "2026-10-25T13:49:02.291977+00:00",
+  "target_categories": [
+    "cs.AI",
+    "cs.CL",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "records_scanned": 3215335,
+  "records_kept": 489995
+}
