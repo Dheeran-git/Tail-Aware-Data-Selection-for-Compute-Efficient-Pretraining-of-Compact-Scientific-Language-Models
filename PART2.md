@@ -82,7 +82,7 @@ Thresholds were chosen by printing abstracts at the extremes of each signal and 
 
 | Signal | Penalty starts | Full penalty | What it catches | Docs with any penalty |
 |---|---:|---:|---|---:|
-| abstract words (low) | 80 | 40 | near-empty abstracts | 2.4% |
+| abstract words (low) | 80 | 40 | near-empty abstracts | 2.2% |
 | chars in repeated word 3-grams | 0.15 | 0.35 | repetitive phrasing | 3.6% |
 | top word 2-gram char share | 0.10 | 0.20 | one phrase dominates | 0.6% |
 | non-prose symbols outside math | 0.005 | 0.03 | `**markdown**`, stray markup | 2.8% |
